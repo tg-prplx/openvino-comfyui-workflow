@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/105a2d21-19a7-4c65-85ea-b6d705b0eb5b)
+
 # Comfy UI OpenVINO
 
 This ComfyUI workflow generates highly detailed anime-style summer beach scenes using advanced prompts and an upscaling model.  
