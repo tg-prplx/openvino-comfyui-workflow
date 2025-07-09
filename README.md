@@ -54,11 +54,11 @@ Make sure you have **Python 3.8 or higher** installed.
 - Download your preferred **anime diffusion model** (Counterfeit, Anything-v3, AOM2, etc.) and place it into `models/Stable-diffusion/`.
 - Download the upscaling model `2x-AniScale.pth` and place it into `models/upscale/`.
 
-### 4. **(Optional) Install OpenVINO Node Support**
+### 4. **Install OpenVINO Node Support**
 If you want to use OpenVINO acceleration:
 ```bash
 # Instructions:
-# https://github.com/openvino-dev-samples/comfyui_openvino
+https://github.com/openvino-dev-samples/comfyui_openvino
 ```
 
 ### 5. **Run ComfyUI**
